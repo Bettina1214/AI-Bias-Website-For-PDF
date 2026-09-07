@@ -1,0 +1,9 @@
+﻿trigger,neutral,trigger_wins,neutral_wins,ties,total,trigger_rate
+demonstrators,participants,0,0,3,3,0.0
+activists,participants,0,3,0,3,0.0
+marchers,participants,3,0,0,3,1.0
+rioters,participants,3,0,0,3,1.0
+protesting,participants,3,0,0,3,1.0
+marched,participants,3,0,0,3,1.0
+demonstrator,participants,0,3,0,3,0.0
+protestors,participants,2,0,1,3,0.6666666666666666
